@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68dee60bed72a8d2eb552d4d",
+    "userId": "68dee4ce6d867015739de565",
+    "name": "Tripod ",
+    "price": 4850,
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/XrcN8yMb/blob.webp",
+      "https://i.ibb.co/zT2Xrrg9/blob.webp",
+      "https://i.ibb.co/Cpk7sz7p/blob.webp",
+      "https://i.ibb.co/gMrQbzd5/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-02T20:52:27.199Z",
+    "__v": 0
+  }
+]
