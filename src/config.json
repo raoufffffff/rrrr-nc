@@ -33,5 +33,12 @@
     "id": "Wheheh"
   },
   "language": "ar",
-  "EnableBerue": false
+  "EnableBerue": false,
+  "faqs": [
+    {
+      "question": "شربيري",
+      "answer": "توصيل مجاني و فرصة ربح ",
+      "id": "1759438595468"
+    }
+  ]
 }
